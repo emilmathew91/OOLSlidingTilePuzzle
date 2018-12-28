@@ -1,0 +1,5 @@
+﻿  SlidingTileDriver.cpp
+  SlidingTileImpelmentation.cpp
+d:\computer programs\visual studio\projects\objectorientedslidingtilepuzzle_emathew\objectorientedslidingtilepuzzle_emathew\slidingtileimpelmentation.cpp(111): warning C4101: 'emptySpace': unreferenced local variable
+  Generating Code...
+  ObjectOrientedSlidingTilePuzzle_EMathew.vcxproj -> D:\Computer Programs\Visual Studio\Projects\ObjectOrientedSlidingTilePuzzle_EMathew\Debug\ObjectOrientedSlidingTilePuzzle_EMathew.exe
